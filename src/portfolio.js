@@ -680,6 +680,14 @@ const publicationsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
+// Blog Page
+const blogHeader = {
+    title: "Blog",
+    description:
+        "No",
+    avatar_image_path: "projects_image.svg",
+};
+
 // Contact Page
 const contactPageData = {
   contactSection: {
