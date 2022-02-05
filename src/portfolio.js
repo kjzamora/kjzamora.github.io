@@ -423,6 +423,15 @@ const certifications = {
             alt_name: "Google",
             color_code: "#0C9D5899",
         },
+        {
+            title: "Perform Foundational Infrastructure Tasks",
+            subtitle: "- GCP Training",
+            logo_path: "gcp_logo.png",
+            certificate_link:
+                "https://www.cloudskillsboost.google/public_profiles/9cf09e38-559e-4279-bed5-1d95d4d4c829/badges/1707841",
+            alt_name: "Google",
+            color_code: "#0C9D5899",
+        },
         //{
         //  title: "Deep Learning",
         //  subtitle: "- Andrew Ng",
