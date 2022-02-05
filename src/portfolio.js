@@ -415,7 +415,7 @@ const certifications = {
             color_code: "#FAF9F6",
         },
         {
-            title: "Create and Manage Cloud Resources",
+            title: "Create and Manage Cloud Resources in Google Cloud",
             subtitle: "- GCP Training",
             logo_path: "gcp_logo.png",
             certificate_link:
@@ -424,7 +424,7 @@ const certifications = {
             color_code: "#0C9D5899",
         },
         {
-            title: "Perform Foundational Infrastructure Tasks",
+            title: "Perform Foundational Infrastructure Tasks in Google Cloud",
             subtitle: "- GCP Training",
             logo_path: "gcp_logo.png",
             certificate_link:
