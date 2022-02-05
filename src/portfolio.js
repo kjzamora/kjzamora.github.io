@@ -9,7 +9,7 @@ const settings = {
 const seo = {
     title: "Kyle's Portfolio",
     description:
-        "An Associate Engineer with 4 years of project management and simulation engineer experience with a strong background in programming.  Proven track record of delivering successful results through analytical problem solving, communication, and teamwork skills.",
+        "Associate Engineer with 4 years’ experience in simulation engineering and project management with a strong background in programming.I am about creating tools and methods to optimize processes, reduce errors, and create consistent high- quality results.",
     og: {
         title: "Kyle Zamora Portfolio",
         type: "website",
@@ -30,7 +30,7 @@ const greeting = {
     logo_name: "KyleZamora",
     nickname: "kjzamora",
     subTitle:
-        "An Associate Engineer with 4 years of project management and simulation engineering experience as well as a strong background in programming.  Proven track record of delivering successful results through analytical problem solving, communication, and teamwork skills.",
+        "Associate Engineer with 4 years’ experience in simulation engineering and project management with a strong background in programming. I am about creating tools and methods to optimize processes, reduce errors, and create consistent high-quality results.",
     resumeLink:
         "https://drive.google.com/file/d/1-NUTRlyqTUpu9sJ0Gob3azSenQn7eFGR/view?usp=sharing",
     portfolio_repository: "https://github.com/kjzamora/masterPortfolio",
@@ -70,6 +70,12 @@ const socialMediaLinks = [
         link: "mailto:kylejzamora@gmail.com",
         fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
         backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
+    },
+    {
+        name: "Wordpress",
+        link: "https://kjzamora.wordpress.com",
+        fontAwesomeIcon: "fa-wordpress-simple", // Reference https://fontawesome.com/icons/twitter?style=brands
+        backgroundColor: "#21759B", // Reference https://simpleicons.org/?q=twitter
     },
     //{
     //  name: "Twitter",
@@ -170,6 +176,13 @@ const skills = {
                     },
                 },
                 {
+                    skillName: "Google Cloud",
+                    fontAwesomeClassname: "simple-icons:googlecloud",
+                    style: {
+                        color: "#4285F4",
+                    },
+                },
+                {
                     skillName: "VirtualBox",
                     fontAwesomeClassname: "simple-icons:virtualbox",
                     style: {
@@ -202,6 +215,13 @@ const skills = {
                     fontAwesomeClassname: "simple-icons:cisco",
                     style: {
                         color: "#1BA0D7",
+                    },
+                },
+                {
+                    skillName: "Kubernetes",
+                    fontAwesomeClassname: "simple-icons:kubernetes",
+                    style: {
+                        color: "#326CE5",
                     },
                 },
             ],
