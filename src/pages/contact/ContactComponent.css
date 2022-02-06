@@ -1,5 +1,5 @@
 .contact-main {
-  width: 100%;
+  width: 115%;
 }
 
 .basic-contact {
@@ -111,6 +111,7 @@
   width: 100%;
   display: flex;
   justify-content: center;
+  padding-bottom: 400px;
 }
 
 .blogsite-btn-div {

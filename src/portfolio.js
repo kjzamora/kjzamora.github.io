@@ -411,9 +411,6 @@ const degrees = {
             alt_name: "UT",
             duration: "2011 - 2016",
             descriptions: [
-                //"⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-                //"⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-                //"⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
                 "⚡ Studied basic chemical engineering subjects like fluid dynamics, thermodynamics, separation, reactor design, etc.",
                 "⚡ Additional courses on inorganic chemistry, engineering economics, and Japanese.",
                 "⚡ University of Toledo President and Dean's List",
@@ -576,28 +573,6 @@ const experience = {
                         "Responsible for project scope, schedule, execution, and budget as well as performing engineering work related to system setup, model development, and troubleshooting. Increased profit margins by an average of 5% on previous projects with 4+ years' of project management experience on multiple 6-figure projects while maintaining at least a 90% customer satisfaction. Created automated tool using VBA resulting in a process improvemnt of 1 - 1.5 weeks per project. Programmed a supplemental engineering tool using PowerShell creating a directed graph of Emeron's Ovation Embedded Simulation Network. More details are provide on the home page and my LinkedIn.",
                     color: "#0879bf",
                 },
-                //{
-                //  title: "Android and ML Developer",
-                //  company: "Muffito Incorporation",
-                //  company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-                //  logo_path: "muffito_logo.png",
-                //  duration: "May 2018 - Oct 2018",
-                //  location: "Pune, Maharashtra",
-                //  description:
-                //    "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-                //  color: "#9b1578",
-                //},
-                //{
-                //  title: "Android Developer",
-                //  company: "FreeCopy Pvt. Ltd.",
-                //  company_url: "https://www.linkedin.com/company/freecopy/about/",
-                //  logo_path: "freecopy_logo.png",
-                //  duration: "Nov 2017 - Dec 2017",
-                //  location: "Ahmedabad, Gujarat",
-                //  description:
-                //    "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-                //  color: "#fc1f20",
-                //},
             ],
         },
         {
