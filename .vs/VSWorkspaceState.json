@@ -1,14 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github\\workflows",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\header",
     "\\src\\components\\topButton",
     "\\src\\pages",
-    "\\src\\pages\\contact"
+    "\\src\\pages\\education"
   ],
-  "SelectedNode": "\\git_data_fetcher.mjs",
+  "SelectedNode": "\\src\\pages\\education\\EducationComponent.css",
   "PreviewInSolutionExplorer": false
 }
