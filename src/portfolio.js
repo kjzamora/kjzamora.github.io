@@ -9,7 +9,7 @@ const settings = {
 const seo = {
     title: "Kyle's Portfolio",
     description:
-        "Associate Engineer with 4 years’ experience in simulation engineering and project management with a strong background in programming.I am about creating tools and methods to optimize processes, reduce errors, and create consistent high- quality results.",
+        "Senior Engineer with 4 years’ experience in project management, virtualization, IT infrastructure, and simulation with a strong background in programming.I am about creating tools and methods to optimize processes, reduce errors, and create consistent high- quality results.",
     og: {
         title: "Kyle Zamora Portfolio",
         type: "website",
@@ -30,7 +30,7 @@ const greeting = {
     logo_name: "KyleZamora",
     nickname: "kjzamora",
     subTitle:
-        "Associate Engineer with 4 years’ experience in simulation engineering and project management with a strong background in programming. I am about creating tools and methods to optimize processes, reduce errors, and create consistent high-quality results.",
+        "Senior Engineer with 4 years’ experience in project management, virtualization, IT infrastructure, and simulation with a strong background in programming.I am about creating tools and methods to optimize processes, reduce errors, and create consistent high- quality results.",
     resumeLink:
         "https://drive.google.com/file/d/1-NUTRlyqTUpu9sJ0Gob3azSenQn7eFGR/view?usp=sharing",
     portfolio_repository: "https://github.com/kjzamora/masterPortfolio",
