@@ -556,18 +556,29 @@ const experience = {
     title: "Experience",
     subtitle: "Work and Internship",
     description:
-        "I'm an Associate Engineer with 4 years experience in simulation and project management with a strong background in programming, scripting, and virtualization.",
+        "I'm a Senior Engineer with 4+ years experience in project management, virtualization, and simulation with a strong background in programming, scripting, and virtualization.",
     header_image_path: "experience.svg",
     sections: [
         {
             title: "Work",
             experiences: [
                 {
+                    title: "Senior Specialist, Production Services Infrastructure Support",
+                    company: "BNY Mellon",
+                    company_url: "https://www.bnymellon.com/",
+                    logo_path: "bnylogo.png",
+                    duration: "May 2022 - PRESENT",
+                    location: "Pittsburgh, PA",
+                    description:
+                        "SME, IT Project Management, Virtualization, and IT Infrastructure",
+                    color: "#bb8a0f",
+                },
+                {
                     title: "Associate Engineer",
                     company: "Emerson Automation Solutions",
                     company_url: "https://www.emerson.com/en-us/automation-solutions",
                     logo_path: "emerson.png",
-                    duration: "November 2017 - PRESENT",
+                    duration: "November 2017 - April 2022",
                     location: "Pittsburgh, PA",
                     description:
                         "Responsible for project scope, schedule, execution, and budget as well as performing engineering work related to system setup, model development, and troubleshooting. Increased profit margins by an average of 5% on previous projects with 4+ years' of project management experience on multiple 6-figure projects while maintaining at least a 90% customer satisfaction. Created automated tool using VBA resulting in a process improvemnt of 1 - 1.5 weeks per project. Programmed a supplemental engineering tool using PowerShell creating a directed graph of Emeron's Ovation Embedded Simulation Network. More details are provide on the home page and my LinkedIn.",
