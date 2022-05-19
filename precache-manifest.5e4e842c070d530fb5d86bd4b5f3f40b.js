@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1d5b49085d0159774916de1e3a0a295",
+    "revision": "afd80270a378ebcb377af8dab5f54d87",
     "url": "./index.html"
   },
   {
-    "revision": "e833cc7cf8831029700e",
+    "revision": "684d11ce2a49d7bb3132",
     "url": "./static/css/main.b97a9acc.chunk.css"
   },
   {
-    "revision": "07a0208eb7406f8ecde0",
-    "url": "./static/js/2.afd5916f.chunk.js"
+    "revision": "926e6d1995b067075f91",
+    "url": "./static/js/2.e1c623f5.chunk.js"
   },
   {
-    "revision": "e833cc7cf8831029700e",
-    "url": "./static/js/main.eb17be59.chunk.js"
+    "revision": "684d11ce2a49d7bb3132",
+    "url": "./static/js/main.aa139853.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
     "url": "./static/media/blogs_image.058eca4c.svg"
+  },
+  {
+    "revision": "499348a26cc36564cd8d8765835ba6bd",
+    "url": "./static/media/bnylogo.499348a2.png"
   },
   {
     "revision": "c4383a7362cd9bea367182be84b6e1df",
