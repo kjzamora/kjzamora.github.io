@@ -423,6 +423,15 @@ const degrees = {
 const certifications = {
     certifications: [
         {
+            title: "Google Project Management",
+            subtitle: "- Google",
+            logo_path: "google-project-management-certificate.png",
+            certificate_link:
+                "https://www.credly.com/badges/746d4b6a-ab00-4fbe-81cd-0d8b3f145e16/public_url",
+            alt_name: "Google Project Management",
+            color_code: "#FAF9F6",
+        },
+        {
             title: "Six Sigma Green Belt",
             subtitle: "- GTP",
             logo_path: "six_sigma.png",
