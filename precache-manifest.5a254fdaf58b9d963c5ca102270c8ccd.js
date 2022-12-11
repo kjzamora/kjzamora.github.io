@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17d95874768545faf1a2ff126b4cbdff",
+    "revision": "5a2d1882b2e175689ebc969001d1fa33",
     "url": "./index.html"
   },
   {
-    "revision": "57bfffc60793cce8b7f1",
+    "revision": "38a052619858a58e7d8b",
     "url": "./static/css/main.b97a9acc.chunk.css"
   },
   {
-    "revision": "926e6d1995b067075f91",
-    "url": "./static/js/2.e1c623f5.chunk.js"
+    "revision": "f1912e2f3be83bdd3730",
+    "url": "./static/js/2.eddcbda5.chunk.js"
   },
   {
-    "revision": "57bfffc60793cce8b7f1",
-    "url": "./static/js/main.59bf00d0.chunk.js"
+    "revision": "38a052619858a58e7d8b",
+    "url": "./static/js/main.74b3e2cf.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -198,6 +198,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6eeb2e810d0fd9f3ca2dcd72de228e68",
     "url": "./static/media/github_logo.6eeb2e81.png"
+  },
+  {
+    "revision": "ee4db3ff89ade1906bb8f10a3ff0393f",
+    "url": "./static/media/google-project-management-certificate.ee4db3ff.png"
   },
   {
     "revision": "0c8a4c114ad00f7854e91550379b9b91",
