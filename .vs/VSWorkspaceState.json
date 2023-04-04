@@ -2,11 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\components",
-    "\\src\\components\\topButton",
-    "\\src\\pages",
-    "\\src\\pages\\education"
+    "\\src\\assests",
+    "\\src\\assests\\font-awesome",
+    "\\src\\assests\\font-awesome\\css",
+    "\\src\\assests\\font-awesome\\metadata",
+    "\\src\\assests\\font-awesome\\svgs",
+    "\\src\\assests\\font-awesome\\svgs\\brands",
+    "\\src\\assests\\font-awesome\\webfonts",
+    "\\src\\pages\\home"
   ],
-  "SelectedNode": "\\git_data_fetcher.mjs",
+  "SelectedNode": "\\src\\assests\\font-awesome\\svgs\\brands\\accessible-icon.svg",
   "PreviewInSolutionExplorer": false
 }

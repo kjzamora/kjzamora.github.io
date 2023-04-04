@@ -32,8 +32,8 @@ const greeting = {
     subTitle:
         "Senior Specialist with 5+ years’ experience in project management, virtualization, IT infrastructure, and simulation with a strong background in programming. I love creating tools and methods to optimize processes, reduce errors, and create consistent high-quality results.",
     resumeLink:
-        "https://drive.google.com/file/d/1-NUTRlyqTUpu9sJ0Gob3azSenQn7eFGR/view?usp=sharing",
-    portfolio_repository: "https://github.com/kjzamora/masterPortfolio",
+        "https://drive.google.com/file/d/1oSCNTEvwodXZo5IsTQVuakXnxdO1Mbt1/view?usp=sharing",
+    portfolio_repository: "https://github.com/kjzamora/ATM",
     githubProfile: "https://github.com/kjzamora",
 };
 
@@ -104,13 +104,15 @@ const skills = {
         // render in js file format using this site: https://svg2jsx.com/  - turn off functional, turn off remove ids, turn off single quotes, turn off memo
         // add new js file to src/containers/skills/skillsection.js
         {
-            title: "Project Management",
+            title: "Project Management & Change Management",
             fileName: "CollabImg",
             skills: [
+                "⚡ Lead Project Manager for ongoing infrastructure upgrade project of over 160 UCSMs and over 65k ESXi hosts while deconflicting and coordinating with a minimum of 6 teams (Storage, Applications, Network, Windows, Unix, and Line of Business) with 0 unplanned outages",
+                "⚡ Implemented new infrastructure upgrade project standards and artifacts including multiple risk matrices for communication and break fixes, RACI charts, and Gnatt charts",
+                "⚡ Improved SLA compliance from 92% to 94% with peak compliance of 97% within my first 3 months by implementing a daily review process and proactive communication with team members",
                 "⚡ Increased profit margins by an average of 5% with 4+ years' of project management experience on multiple 6-figure projects",
                 "⚡ Maintained at least 90% customer satisfaction",
-                "⚡ Managed teams of 4 to 5 engineers and acting as liaison between the simulation group and operations",
-                "⚡ Successfully handled as many as 8 projects at a time",
+                "⚡ Managed teams of 4 to 5 engineers and acting as liaison between the simulation group and operations"
             ],
             softwareSkills: [
                 {
@@ -161,7 +163,10 @@ const skills = {
             title: "Virtualization",
             fileName: "FullStackImg",
             skills: [
-                "⚡ 3+ years' experience with VMWare ESXi/vSphere within Windows Server environment on Dell Poweredge hardware",
+                "⚡ 4+ years' experience with VMWare ESXi/vSphere deploying on Dell PowerEdge and Cisco Blade hardware",
+                "⚡ Deployed OVAs into large VMware prodctions environments in excess of 65K ESXi hosts",
+                "⚡ Comissioned and Decommisoned ESXi hosts using UCS Director",
+                "⚡ Certified by Google on Foundational Infrastructure Tasks using Google Cloud",
                 "⚡ Certified by Google on Creating and Managing Resources using Google Cloud",
                 "⚡ Building VMs on both hardware and cloud infastructure",
                 "⚡ Familiar with multiple operating systems",
@@ -230,6 +235,8 @@ const skills = {
             title: "Process Improvement",
             fileName: "DataScienceImg",
             skills: [
+                "⚡ Achieved a 50% reduction in median approval times for RFCs (Request for Change) by standardizing the team’s RFCs and improved the workflow and communication to obtain approvals from the Change Advisory Board",
+                "⚡ Presented and trained 9 engineers on database manipulation during simulator SME meeting",
                 "⚡ Led communication between operations and simulation introducing 2 new SOPs, issued monthly reporting updates, and coordinated patching of hardware and VMware systems",
                 "⚡ Implemented new SOP for simulation engineers' database submissions and reduce system loading times from 3 days to 1.5 hours",
                 "⚡ Presented and trained 9 engineers on database manipulation during simulator SME meeting",
@@ -275,6 +282,9 @@ const skills = {
             title: "Programming & Scripting",
             fileName: "ProgrammingImg",
             skills: [
+                "⚡ Developed a PowerShell script to deploy OVAs into the VMware production environment. Functionality included making JSON API calls to reserve IP addressing, reserve hostnames, determine datastore, VLAN, target host and deployment",
+                "⚡ Developed a PowerShell script to determine the actual storage space used by a VM that had 1 or more VMDKs",
+                "⚡ Achieved a 92% reduction from 2 hours to 10 minutes to verify if infrastructure equipment was ready to upgrade by developing automation and logic using VBA to develop a “Pass/Fail” worksheet",
                 "⚡ Experience in multiple coding languages and in creating tools that have resulted in measureable process improvements",
                 "⚡ Developed an automated tool using VBA resulting in a process improvement of 1 - 1.5 weeks per project",
                 "⚡ Created an automated VBA tool that collected chemical compositions from an internal SQL database and determined cost losses at various points of the process that resulted in a reduction of 3 days of work to 5 minutes",

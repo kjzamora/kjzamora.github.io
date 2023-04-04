@@ -1,3 +1,14 @@
+servicenow:
+  changes:
+    - "4.4"
+    - 5.0.0
+  label: servicenow
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: e001
+  voted: false
 500px:
   changes:
     - "4.4"

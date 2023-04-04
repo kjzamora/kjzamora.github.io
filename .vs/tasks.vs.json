@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-500px",
+      "appliesTo": "src/assests/font-awesome/svgs/brands/500px.svg",
+      "type": "launch"
+    }
+  ]
+}

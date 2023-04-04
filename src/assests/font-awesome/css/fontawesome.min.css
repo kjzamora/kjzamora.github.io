@@ -196,6 +196,9 @@
 .fa-inverse {
   color: #fff;
 }
+.fa-servicenow:before {
+    content: "\e001";
+}
 .fa-500px:before {
   content: "\f26e";
 }
