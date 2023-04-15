@@ -107,7 +107,7 @@ const skills = {
             title: "Project Management & Change Management",
             fileName: "CollabImg",
             skills: [
-                "⚡ Lead Project Manager for ongoing infrastructure upgrade project of over 160 UCSMs and over 65k ESXi hosts while deconflicting and coordinating with a minimum of 6 teams (Storage, Applications, Network, Windows, Unix, and Line of Business) with 0 unplanned outages",
+                "⚡ Lead Project Manager for ongoing infrastructure upgrade project of over 160 UCSMs and over 6k ESXi hosts while deconflicting and coordinating with a minimum of 6 teams (Storage, Applications, Network, Windows, Unix, and Line of Business) with 0 unplanned outages",
                 "⚡ Implemented new infrastructure upgrade project standards and artifacts including multiple risk matrices for communication and break fixes, RACI charts, and Gnatt charts",
                 "⚡ Improved SLA compliance from 92% to 94% with peak compliance of 97% within my first 3 months by implementing a daily review process and proactive communication with team members",
                 "⚡ Increased profit margins by an average of 5% with 4+ years' of project management experience on multiple 6-figure projects",
