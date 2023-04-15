@@ -164,7 +164,7 @@ const skills = {
             fileName: "FullStackImg",
             skills: [
                 "⚡ 4+ years' experience with VMWare ESXi/vSphere deploying on Dell PowerEdge and Cisco Blade hardware",
-                "⚡ Deployed OVAs into large VMware prodctions environments in excess of 65K ESXi hosts",
+                "⚡ Deployed OVAs into large VMware prodctions environments in excess of 6K ESXi hosts",
                 "⚡ Comissioned and Decommisoned ESXi hosts using UCS Director",
                 "⚡ Certified by Google on Foundational Infrastructure Tasks using Google Cloud",
                 "⚡ Certified by Google on Creating and Managing Resources using Google Cloud",

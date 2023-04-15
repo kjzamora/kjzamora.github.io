@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\src",
     "\\src\\assests",
     "\\src\\assests\\font-awesome",
-    "\\src\\assests\\font-awesome\\css",
     "\\src\\assests\\font-awesome\\metadata",
     "\\src\\assests\\font-awesome\\svgs",
     "\\src\\assests\\font-awesome\\svgs\\brands",
-    "\\src\\assests\\font-awesome\\webfonts",
-    "\\src\\pages\\home"
+    "\\src\\assests\\font-awesome\\webfonts"
   ],
-  "SelectedNode": "\\src\\assests\\font-awesome\\svgs\\brands\\accessible-icon.svg",
+  "SelectedNode": "\\.github\\workflows\\npm-publish.yml",
   "PreviewInSolutionExplorer": false
 }
