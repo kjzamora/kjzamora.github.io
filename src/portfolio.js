@@ -107,10 +107,10 @@ const skills = {
             title: "Project Management & Change Management",
             fileName: "CollabImg",
             skills: [
-                "⚡ Lead Project Manager for ongoing infrastructure upgrade project of over 160 UCSMs and over 6k ESXi hosts while deconflicting and coordinating with a minimum of 6 teams (Storage, Applications, Network, Windows, Unix, and Line of Business) with 0 unplanned outages",
-                "⚡ Implemented new infrastructure upgrade project standards and artifacts including multiple risk matrices for communication and break fixes, RACI charts, and Gnatt charts",
+                "⚡ Lead Project Manager for ongoing infrastructure upgrade project of over 160 UCSMs and over 6k ESXi hosts while deconflicting and coordinating with a minimum of 7 teams(Storage, Applications, Network, Windows, Unix, Line of Business, and Contractors) with 0 unplanned outages",
+                "⚡ Standardized large infrastructure upgrade projects by creating 24 documents including but not limited to project schedule, RACI charts, risk matrices, procedures, end user communication, contractor onboarding and coordination, and change management",
                 "⚡ Improved SLA compliance from 92% to 94% with peak compliance of 97% within my first 3 months by implementing a daily review process and proactive communication with team members",
-                "⚡ Increased profit margins by an average of 5% with 4+ years' of project management experience on multiple 6-figure projects",
+                "⚡ Increased profit margins by an average of 5% on multiple 6-figure projects by implementing multiple process improvements",
                 "⚡ Maintained at least 90% customer satisfaction",
                 "⚡ Managed teams of 4 to 5 engineers and acting as liaison between the simulation group and operations"
             ],
@@ -163,7 +163,7 @@ const skills = {
             title: "Virtualization",
             fileName: "FullStackImg",
             skills: [
-                "⚡ 4+ years' experience with VMWare ESXi/vSphere deploying on Dell PowerEdge and Cisco Blade hardware",
+                "⚡ 4+ years' experience with VMWare ESXi/vSphere and deploying on Dell PowerEdge and Cisco Blade hardware",
                 "⚡ Deployed OVAs into large VMware prodctions environments in excess of 6K ESXi hosts",
                 "⚡ Comissioned and Decommisoned ESXi hosts using UCS Director",
                 "⚡ Certified by Google on Foundational Infrastructure Tasks using Google Cloud",
@@ -236,12 +236,11 @@ const skills = {
             fileName: "DataScienceImg",
             skills: [
                 "⚡ Achieved a 50% reduction in median approval times for RFCs (Request for Change) by standardizing the team’s RFCs and improved the workflow and communication to obtain approvals from the Change Advisory Board",
-                "⚡ Presented and trained 9 engineers on database manipulation during simulator SME meeting",
                 "⚡ Led communication between operations and simulation introducing 2 new SOPs, issued monthly reporting updates, and coordinated patching of hardware and VMware systems",
                 "⚡ Implemented new SOP for simulation engineers' database submissions and reduce system loading times from 3 days to 1.5 hours",
                 "⚡ Presented and trained 9 engineers on database manipulation during simulator SME meeting",
-                "⚡ Creates new organizational process asset tools using various programming languages",
-                "⚡ Performed Gage R&R study to determine residual tungsten in bags utilizing Six Sigma Green Belt resulting in 1K increase per bag resale value",
+                "⚡ Accomplished a 1K increase per bag resale value by performing a Gage R&R study to determine residual tungsten, employing Six Sigma Green Belt methodology",
+                "⚡ Presented and trained 9 engineers on database manipulation during simulator SME meeting",
                 "⚡ Six Sigma Green Belt Certified",
             ],
             softwareSkills: [
@@ -283,11 +282,12 @@ const skills = {
             fileName: "ProgrammingImg",
             skills: [
                 "⚡ Developed a PowerShell script to deploy OVAs into the VMware production environment. Functionality included making JSON API calls to reserve IP addressing, reserve hostnames, determine datastore, VLAN, target host and deployment",
+                "⚡ Developed a production readiness check sheet that checks the vCenter Server Appliance’s cpu & memory configurations, java sizes, and specific internal settings using PowerShell and VMware’s PowerCLI",
                 "⚡ Developed a PowerShell script to determine the actual storage space used by a VM that had 1 or more VMDKs",
                 "⚡ Achieved a 92% reduction from 2 hours to 10 minutes to verify if infrastructure equipment was ready to upgrade by developing automation and logic using VBA to develop a “Pass/Fail” worksheet",
                 "⚡ Experience in multiple coding languages and in creating tools that have resulted in measureable process improvements",
-                "⚡ Developed an automated tool using VBA resulting in a process improvement of 1 - 1.5 weeks per project",
-                "⚡ Created an automated VBA tool that collected chemical compositions from an internal SQL database and determined cost losses at various points of the process that resulted in a reduction of 3 days of work to 5 minutes",
+                "⚡ Achieved a process improvement of 1 - 1.5 weeks per project by automating database manipulation needed to connect simulation models to plant controls by developing an internal tool using VBA",
+                "⚡ Reduced work time from 3 days to 5 minutes by developing a VBA tool that collected chemical compositions from an internal SQL database and determined cost losses at various points of the process",
                 "⚡ Programmed a supplement engineering tool using PowerShell creating a directed graph of Emerson's Ovation Embedded Simulation network",
             ],
             softwareSkills: [
